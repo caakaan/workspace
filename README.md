@@ -1,7 +1,10 @@
-# Livro de receitas 
+# Livro de receitas :chicken:
 
-Olá, bem vindo ao livro de receitas
+### Olá, bem vindo ao livro de Receitas com Frango
 
-Strogonoff
-
-pave
+- Frango a Parmegiana
+- Frango Com Quiabo
+- Strogonoff
+- Torta de Frango
+- Frango Xadrez
+- Frango a Passarinho
